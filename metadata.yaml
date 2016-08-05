@@ -1,0 +1,31 @@
+_repo: The-Adventures-of-Sally_7464
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Wodehouse, Pelham Grenville
+    - Windham, Basil
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7464'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- GITenberg
+title: The Adventures of Sally
+url: http://www.gutenberg.org/ebooks/7464
